@@ -1,4 +1,4 @@
-### Olá! Eu sou Wendel Segadilha 👋
+### Olá! Eu sou Wendel Segadilha. 👋
 
 
 - 🔭 Hoje trabalho com desenvolvimento Full Stack
