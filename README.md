@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com desenvolvimento Full Stack
-- 🌱 Atualmente estududo Typescript e React
+- 🌱 Atualmente estudo Typescript e React
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=wendelsegadilha&show_icons=true&theme=github_dark&count_private=true" />
