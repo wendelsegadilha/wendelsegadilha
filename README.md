@@ -2,7 +2,6 @@
 
 
 - 🔭 Hoje trabalho com desenvolvimento Full Stack
-- 🌱 Atualmente estudo Javascript
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=wendelsegadilha&show_icons=true&theme=github_dark&count_private=true" />
