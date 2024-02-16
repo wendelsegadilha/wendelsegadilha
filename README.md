@@ -1,7 +1,7 @@
 ### Olá! Eu sou Wendel Segadilha. 👋
 
 
-- 🔭 Hoje trabalho com desenvolvimento Full Stack
+- 🔭 Desenvolvedor Full Stack Java | Python | Engenheiro da Computação
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=wendelsegadilha&show_icons=true&theme=github_dark&count_private=true" />
